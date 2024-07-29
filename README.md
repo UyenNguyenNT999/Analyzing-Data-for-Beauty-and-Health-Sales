@@ -1,1 +1,1 @@
-# Dashboard
+A research study about gathering sales data from the Hasaki website over a 30-day period using Python, uploading it to the database, then analyzing and forecasting the sales trends of Hasaki website by Power BI.
